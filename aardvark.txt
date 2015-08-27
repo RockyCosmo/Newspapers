@@ -1,3 +1,6 @@
 roses are red
 violets are blue
 I love flowers
+Flowers have bees
+I don't like bees.
+Wasp's either.
